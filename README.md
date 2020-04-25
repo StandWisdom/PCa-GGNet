@@ -16,10 +16,10 @@ The goal of this repository is:
 ## Prepare your data for generator-net:
 The training list was essential for the Framework.
 
-For generator-net, you should split your 3D MRI into 2D slice, and record the data-ID, label, flag of tumor slice, and path of every slice as .csv or .xlsx. The names of columns were 'ID','label','Z', and 'path' in our project. More details can be found in DataSet.py.
+For generator-net, you should split your 3D MRI into 2D slice, and record the data-ID, label, flag of tumor slice, and path of every slice as .csv or .xlsx. The names of columns were 'ID','label','Z', and 'path' in our project. More details can be found in DataSet.py and 'generatorNet_trainlist_example.xlsx'.
 
 For action-net, you should first extract the CNN features of each slice (not only tumor slice) by generator-net. Then, you should record the data-ID, label, flag of tumor slice, predicted result of the slice with probability, and extracted features as .csv or .xlsx. 
-More details can be found in action-net.py and actionNet_trainlist_example.csv.
+More details can be found in action-net.py and actionNet_trainlist_example.xlsx.
  
 ## Training for generator-net
 `python generator-net.py`
