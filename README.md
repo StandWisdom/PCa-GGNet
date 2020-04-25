@@ -30,6 +30,9 @@ More details can be found in action-net.py and actionNet_trainlist_example.csv.
 ## Training for action-net and results of case-level prediction
 `python action-net.py`
 
+# Process of our method
+![orig](https://github.com/StandWisdom/PCa-ISUPNet/blob/master/ABSTRACT-gif.gif)<br>
+
 ## Acknowledgement
 
 Thanks to the https://github.com/Cadene/pretrained-models.pytorch for pretrained ConvNets with a unique interface/API inspired by torchvision.<br>
@@ -38,6 +41,4 @@ Thanks to Peking University Third Hospital (PUTH) and Peking University People H
 Thanks to Key laboratory of molecular imaging, Insistute of automation, Chinese Sciences of Academy for support of platform.<br>
 Thanks to LIST, Key Laboratory of Computer Network and Information Integration, Southest University for technical support.<br>
 
-# Process of our method
-![orig](https://github.com/StandWisdom/PCa-ISUPNet/blob/master/ABSTRACT-gif.gif)<br>
 
