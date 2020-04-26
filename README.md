@@ -1,5 +1,5 @@
 # PCa-ISUPNet
-A radiologist-like agent based on reinforcement learning to predict case-level ISUP grade in prostate cancer for restriction of upgrading and downgrading risk of pathological evaluation.<br>
+PCa-ISUPNet: A radiologist-like framework for interpretable prediction of prostate ISUP grade to restrict risk of upgrade and downgrade in needle biopsy<br>
 
 The goal of this repository is:
 - to help researchers to reproduce the PCa-ISUPNet framework and expand for other prostate research or relevant research.
@@ -36,7 +36,7 @@ More details can be found in action-net.py and actionNet_trainlist_example.xlsx.
 ## Acknowledgement
 
 Thanks to the https://github.com/Cadene/pretrained-models.pytorch for pretrained ConvNets with a unique interface/API inspired by torchvision.<br>
-Thanks to the https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch. for implemention of basical DQN framwork in pytorch.<br>
+Thanks to the https://github.com/sweetice/Deep-reinforcement-learning-with-pytorch for implemention of basical DQN framwork in pytorch.<br>
 Thanks to Peking University Third Hospital (PUTH) and Peking University People Hospital (PUPH) for data support.<br>
 Thanks to Key laboratory of molecular imaging, Insistute of automation, Chinese Sciences of Academy for support of platform.<br>
 Thanks to LIST, Key Laboratory of Computer Network and Information Integration, Southest University for technical support.<br>
