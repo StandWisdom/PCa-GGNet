@@ -1,5 +1,5 @@
-# PCa-ISUPNet
-PCa-ISUPNet: A radiologist-like framework for interpretable prediction of prostate ISUP grade to restrict risk of upgrade and downgrade in needle biopsy<br>
+# PCa-GGNet
+PCa-GGNet: A radiologist-like framework for interpretable prediction of prostate grade groups to restrict risk of upgrade and downgrade in needle biopsy<br>
 
 The goal of this repository is:
 - to help researchers to reproduce the PCa-ISUPNet framework and expand for other prostate research or relevant research.
