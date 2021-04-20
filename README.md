@@ -48,4 +48,5 @@ Thanks to Peking University Third Hospital (PUTH) and Peking University People H
 Thanks to Key laboratory of molecular imaging, Insistute of automation, Chinese Sciences of Academy for support of platform.<br>
 Thanks to LIST, Key Laboratory of Computer Network and Information Integration, Southest University for technical support.<br>
 
-
+## Reference
+Shao, L., et al., Radiologist-like artificial intelligence for grade group prediction of radical prostatectomy for reducing upgrading and downgrading from biopsy. Theranostics, 2020. 10(22): p. 10200-10212.
